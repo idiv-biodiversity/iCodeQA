@@ -1,6 +1,6 @@
 # iCodeQA
 
-The purpose of this repository:
+## The purpose of this repository:
 
 - A platform for questions and answers (Q&A) for the [coding club of iDiv](https://intranet.idiv.de/en/groups-people/default-9c9fba7eb0.html);
 - Ask questions related to R, Python, bash/sh, C++, SQL, and other languages that we use as data scientists in biodiversity research;
@@ -9,6 +9,8 @@ The purpose of this repository:
 
 We want to assure you that this is a safe space to ask without judgments, irrespective of your experience.
 Moderation can be done on a voluntary basis by anyone who becomes an administrator of this repository. 
+
+## How to create an "issue" / Ask a question
 
 This is a public repository. One can create a GitHub account [here](https://github.com/signup).
 Then, anyone with a GitHub account can open an issue like this:
@@ -42,6 +44,14 @@ For more editing options, please see [Creating and highlighting code blocks](htt
 
 People can be referred to by their user names like: @user_name.
 Anyone can comment on an issue and add their solution or ask for further clarification.
+
+## Search for an issue
+
+In the “Issues” tab, there is a search box where you can use it to type the keywords to search for a certain issue:
+![Selection_137](https://user-images.githubusercontent.com/14074269/196685015-c1053c61-8470-4881-90d1-4783cda7f164.jpg)
+
+
+## Email notifications
 
 If you click the "Watch" button from the top right corner of the main page of this repository, you will get email notifications on the email associated with your GitHub account. 
 You can customize your email notifications to get notified at every issue. Here is how to activate that option:
