@@ -3,7 +3,7 @@
 ## The purpose of this repository:
 
 - A platform for questions and answers (Q&A) for the [coding club of iDiv](https://intranet.idiv.de/en/groups-people/default-9c9fba7eb0.html);
-- Ask questions related to R, Python, bash/sh, C++, SQL, and other languages that we use as data scientists in biodiversity research;
+- Ask questions related to R, Python, Julia, bash/sh, C++, SQL, and other languages that we use as data scientists in biodiversity research;
 - Ask questions related to statistics/data science methods;
 - Learn together and kindly support each other;
 
