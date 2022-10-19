@@ -51,5 +51,5 @@ You can customize your email notifications to get notified at every issue. Here 
 | ![Selection_132][1] | ![Selection_134][2] | ![Selection_135][3] |
 
 [1]: https://user-images.githubusercontent.com/14074269/196677327-2d3c3697-0588-404f-98e4-f70ddb3fed5b.jpg
-[2]: https://user-images.githubusercontent.com/14074269/196678350-7eded6d9-f277-499f-8a9b-5de9626d7065.jpg
+[2]: https://user-images.githubusercontent.com/14074269/196684110-22e13a7d-5662-47b0-9be8-2f6ba02647d1.jpg
 [3]: https://user-images.githubusercontent.com/14074269/196678363-57d0eff0-24e3-44fb-96ce-aa9a39fb4b01.jpg
