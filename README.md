@@ -40,7 +40,8 @@ For Python:
 
 For more editing options, please see [Creating and highlighting code blocks](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-and-highlighting-code-blocks)
 
-The person who asks can be referred to as the "Asker" and a person who answers as an "Answerer".
+People can be referred to by their user names like: @user_name.
+Anyone can comment on an issue and add their solution or ask for further clarification.
 
 If you click the "Watch" button from the top right corner of the main page of this repository, you will get email notifications on the email associated with your GitHub account. 
 You can customize your email notifications to get notified at every issue. Here is how to activate that option:
